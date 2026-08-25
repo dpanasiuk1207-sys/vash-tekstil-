@@ -1,0 +1,1 @@
+Завантажте ВСІ файли в GitHub Pages. Головна: index.html.
